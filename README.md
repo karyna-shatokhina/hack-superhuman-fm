@@ -43,7 +43,6 @@ Edit `.env` and fill in your tokens:
 # Bot Token (starts with xoxb-)
 # Found in: OAuth & Permissions → Bot User OAuth Token
 SLACK_BOT_TOKEN=xoxb-your-bot-token
-//NOTE: in 1Password *Bot User OAuth Token*
 
 # Signing Secret
 # Found in: Basic Information → App Credentials → Signing Secret
@@ -52,7 +51,6 @@ SLACK_SIGNING_SECRET=your-signing-secret
 # App Token for Socket Mode (starts with xapp-)
 # Found in: Basic Information → App-Level Tokens
 SLACK_APP_TOKEN=xapp-your-app-token
-//NOTE: in 1Password "Local Setup"
 
 # Optional: Port number (default: 3000)
 PORT=3000
